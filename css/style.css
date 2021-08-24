@@ -1,0 +1,203 @@
+h1{
+text-align: center;
+font-size: 5.625rem;
+color: #66BFBF;
+}
+h2{
+text-align: center;
+font-size: 3.50rem;
+font-family: 'Montserrat', sans-serif;
+color: #66BFBF;
+}
+.top-container{
+background-color: lightcyan;
+text-align: center;
+margin-top: -3.75rem;
+margin-left:-0.5rem;
+margin-right:-0.5rem;
+}
+.top-cloud{
+position: relative;
+bottom: 50rem;
+right: 12.5rem;
+}
+.bottom-cloud{
+position: relative;
+bottom: 9.562rem;
+left: -0.06rem;
+padding-bottom: 33.12rem;
+}
+.hst{
+position: relative;
+bottom: -10rem;
+font-family: 'Sacramento', cursive;
+text-align: center;
+}
+.hst2{
+position: absolute;
+bottom: 20rem;
+left: 37.5rem;
+color: #66BFBF;
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+}
+.dforfodg{
+position: relative;
+font-size: 2.54rem;
+color: #66BFBF;
+font-weight: normal;
+line-height: 2;
+}
+.top-cloud{
+position: relative;
+bottom: 17.18rem;
+right: 2.06rem;
+}
+.middle-container{
+text-align: center;
+padding: 1.56rem;
+}
+.helloworld{
+width: 30%;
+margin: auto;
+line-height: 2;
+font-size: 20px;
+}
+div{
+display: block;
+}
+.skill{
+border-radius: 100%;
+width : 180px;
+height: 180px;
+}
+.webs{
+font-size: 25px;
+line-height: 1;
+}
+p{
+width: 30%;
+margin: auto;
+}
+.pandab{
+border-radius: 100%;
+height: 180px;
+width: 180px;
+}
+.about{
+font-size: 25px;
+margin-top: 40px;
+
+}
+.aboutinfo{
+padding-top: 20px;
+width: 30%;
+text-align: left;
+line-height: 1.5;
+}
+body{
+text-align: left;
+line-height: 1.5;
+background-image: linear-gradient(to right, blue,cyan,lightblue,skyblue,pink,magenta);
+/* default save purpose background-image: linear-gradient(to left, yellow,blue,indigo,violet);*/
+}
+.hallo{
+text-align: left;
+}
+.helloworld{
+text-align: left;
+}
+
+hr{
+border: dotted red 6px;
+border-bottom: none;
+width: 4%;
+margin: 100px auto;
+}
+.top-container{
+  background-image: linear-gradient(to right, blue,cyan,lightblue,skyblue,pink,magenta);
+}
+.wali{
+  border-radius: 100%;
+  height: 180px;
+  width: 180px;
+}
+.mountain{
+  padding-bottom: 20px;
+}
+.bottom-container{
+background-image: linear-gradient(to left,purple,#345688);
+
+  height: 200px;
+  margin: -23px;
+}
+.contactus{
+  margin-top: -50%px;
+  color: black ;
+}
+h1,h2,h3{
+  color: black;
+}
+p{
+  color: #40514E;
+
+
+}
+.fb{
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 20px;
+}
+.fbl{
+  width: 60px;
+  height: 60px;
+  position: relative;
+  left: 20px;
+  top: -40px;
+}
+.fbb{
+  font-size: 40px;
+  position: relative;
+  right: 660px;
+
+}
+.insta{
+  width: 60px;
+  height: 60px;
+
+  position: relative;
+  left: 720px;
+  bottom: 230px;
+
+}
+.lt{
+  font-size: 40px;
+  position: relative;
+  right: 20px;
+  bottom: 195px;
+}
+.linkedinname{
+  position: relative;
+  bottom: 390px;
+ left: 677px;
+ font-size: 40px;
+}
+.linkedinlogo{
+width: 60px;
+height: 60px;
+position: relative;
+left: 1477px;
+bottom: 429px;
+}
+
+}
+.bottom-container{
+  margin-bottom: -1000px;
+}
+.cright{
+  text-decoration: none;
+  position: relative;
+  bottom: 412px;
+  font-size: 30px;
+}
